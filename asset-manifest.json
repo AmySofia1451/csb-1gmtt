@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://AmySofia1451.github.io/csb-1gmtt/static/js/main.683354da.chunk.js",
+    "main.js.map": "https://AmySofia1451.github.io/csb-1gmtt/static/js/main.683354da.chunk.js.map",
+    "runtime-main.js": "https://AmySofia1451.github.io/csb-1gmtt/static/js/runtime-main.3d23f6a1.js",
+    "runtime-main.js.map": "https://AmySofia1451.github.io/csb-1gmtt/static/js/runtime-main.3d23f6a1.js.map",
+    "static/js/2.41d2c938.chunk.js": "https://AmySofia1451.github.io/csb-1gmtt/static/js/2.41d2c938.chunk.js",
+    "static/js/2.41d2c938.chunk.js.map": "https://AmySofia1451.github.io/csb-1gmtt/static/js/2.41d2c938.chunk.js.map",
+    "index.html": "https://AmySofia1451.github.io/csb-1gmtt/index.html",
+    "precache-manifest.d6742225a715c89fc1a781368b8e25ca.js": "https://AmySofia1451.github.io/csb-1gmtt/precache-manifest.d6742225a715c89fc1a781368b8e25ca.js",
+    "service-worker.js": "https://AmySofia1451.github.io/csb-1gmtt/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d23f6a1.js",
+    "static/js/2.41d2c938.chunk.js",
+    "static/js/main.683354da.chunk.js"
+  ]
+}
